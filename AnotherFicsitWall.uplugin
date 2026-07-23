@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0.1",
+	"FriendlyName": "AnotherFicsitWall",
+	"Description": "Adds Walls and other Elements that are inspired by the old Ficsit Wall before it changed with Update 5.",
+	"Category": "Modding",
+	"CreatedBy": "Azjaran",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "0.0.1",
+	"GameVersion": ">=491125"
+}
