@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 0,
-	"VersionName": "0.2.0",
+	"VersionName": "0.3.0",
 	"FriendlyName": "AnotherFicsitWall",
 	"Description": "Adds Walls and other Elements that are inspired by the old Ficsit Wall before it changed with Update 5.",
 	"Category": "Modding",
@@ -22,6 +22,6 @@
 			"SemVersion": "^3.12.0"
 		}
 	],
-	"SemVersion": "0.2.0",
+	"SemVersion": "0.3.0",
 	"GameVersion": ">=491125"
 }
