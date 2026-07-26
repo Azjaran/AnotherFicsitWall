@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.fbx
 *.png
+/Content/IconCapturing
