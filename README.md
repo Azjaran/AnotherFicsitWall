@@ -53,7 +53,7 @@ Currently this Mod has 3 additional Packs whitch are found in the Walls category
 <br><br>
 <img src="https://github.com/Azjaran/AnotherFicsitWall/blob/9739b62b4b37a8a52ea11b2205afda0aa40cba87/Screenshots/Old%20Ficsit%20Buildgun1.png" alt="Old Ficsit Buildgun 1">
 <br><br>
-<img src="https://github.com/Azjaran/AnotherFicsitWall/blob/9739b62b4b37a8a52ea11b2205afda0aa40cba87/Screenshots/Old%20Ficsit%20Buildgun2.png" alt="WOld Ficsit Buildgun 2">
+<img src="https://github.com/Azjaran/AnotherFicsitWall/blob/8bfa804b3f179466988e1d1c2978578ea05ad518/Screenshots/Old%20Ficsit%20Buildgun2.png" alt="WOld Ficsit Buildgun 2">
 <br><br>
 <img src="https://github.com/Azjaran/AnotherFicsitWall/blob/9739b62b4b37a8a52ea11b2205afda0aa40cba87/Screenshots/Old%20Ficsit%20Buildgun3.png" alt="Old Ficsit Buildgun 1">
 <br><br>
