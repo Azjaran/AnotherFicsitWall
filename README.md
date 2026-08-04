@@ -64,7 +64,7 @@ The basics of the Mod are done but I maybe implement some other missing Elements
 
  - _4x4 Concave/Convex Wall_
  - _4x8 Concave/Convex Wall_
- - Changes to the _16x8 Big Garage Door_ 
+ - Changes to the _16x8 Roll-Up Gate_ 
 
 For these changes/additions i need to get better with Blender and im kinda wanna do another Mod first before i return to this.
 
